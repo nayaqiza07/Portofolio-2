@@ -80,7 +80,7 @@
   border-radius: 12px;
   background-position: center;
   background-size: cover;
-  height: 400px;
+  height: 15rem;
 }
 .workingspace h3 {
   font-size: 52px;
@@ -180,6 +180,9 @@ footer p a {
 
   .workingspace {
     text-align: left;
+  }
+  .workingspace img {
+    height: 25rem;
   }
 
   .testimonial h5 {
