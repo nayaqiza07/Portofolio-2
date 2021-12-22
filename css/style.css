@@ -78,6 +78,9 @@
 }
 .workingspace img {
   border-radius: 12px;
+  background-position: center;
+  background-size: cover;
+  height: 400px;
 }
 .workingspace h3 {
   font-size: 52px;
